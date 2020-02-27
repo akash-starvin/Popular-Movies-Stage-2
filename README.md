@@ -22,5 +22,5 @@ This project is apart of the Udacity Android Developer Nanodegree. In this proje
 ![Screenshot](https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_deatil.jpg)
 
 ### Running the app
-This app utilizes the Movie Database API. To run this app, you must obtain a free API key from the MovieDB website and add this following line of code to your MainActivity and DetailedActivity files:
+This app utilizes the Movie Database API. To run this app, you must obtain a free API key from the MovieDB website https://developers.themoviedb.org/ and add this following line of code to your MainActivity and DetailedActivity files:
 API_KEY = "";
