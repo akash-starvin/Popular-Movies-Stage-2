@@ -3,7 +3,7 @@
 ## Overview
 This project is apart of the Udacity Android Developer Nanodegree. In this project, we were prompted to build an app to allow users to discover the most popular movies playing. This app improves the functionality of the app built in Stage 1.
 
-## Functionalities
+## Functionality
 1. Users are able to view list of movies.
 2. Movies can also be sorted by Most popular, Top Rated and Favorite.
 3. Users are able to view details of a selected movie.
@@ -17,4 +17,4 @@ This app utilizes the Movie Database API. To run this app, you must obtain a fre
 API_KEY = "";
 
 ## Screenshots
-<img src="https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_main_list.jpg" width="290"/> <img src="https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_sort.jpg" width="290"/> <img src="https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_deatil.jpg" width="290"/>
+<img src="https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_main_list.jpg" width="285"/> <img src="https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_sort.jpg" width="285"/> <img src="https://github.com/akash-starvin/PopularMovies/blob/master/Screenshots/Screenshot_deatil.jpg" width="285"/>
