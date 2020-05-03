@@ -1,7 +1,11 @@
 # Popular Movies - Stage 2
 
 ## Overview
-This project is apart of the Udacity Android Developer Nanodegree. In this project, we were prompted to build an app to allow users to discover the most popular movies playing. This app improves the functionality of the app built in Stage 1.
+This project is apart of the Udacity Android Developer Nanodegree. 
+
+The purpose of this project was to built an app, optimized for tablets also, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API.
+
+This app improves the functionality of the app built in Stage 1.
 
 ## Functionality
 1. Users are able to view list of movies.
